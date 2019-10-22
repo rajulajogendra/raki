@@ -1,0 +1,36 @@
+git-----------------
+
+vc  
+rc
+scm
+
+
+type1	
+type2     SVN (no local repository and without internet not possible to commite our code) -----> trunk (main repository or entire porject is called trunk)
+										     branch (prallel development of trunk)
+										     tags   (for labelling purpose) 
+checkout entier porject is downloaded
+update  only updates will be downloaded
+ 
+	(here in we create our own repository and workspace i.e is local repository) 
+
+
+
+type3     dvcs (
+
+wt is git(as git we have other tool name is Mercurial) is a tool and github is repository.
+git has three areas (working area, index r cache r staging area, local repository)
+			
+			master
+			branch
+			tags
+
+
+
+
+github 
+bitbucket
+sbit
+
+
+what is shacode? for every commit we get a unique id so we cant remember all so we use tags to identifie them.
