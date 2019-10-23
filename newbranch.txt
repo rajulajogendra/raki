@@ -1,0 +1,6 @@
+hi 
+this 
+is 
+new 
+branch
+                going to merge with master
